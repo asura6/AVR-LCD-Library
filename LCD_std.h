@@ -1,5 +1,10 @@
-/* Author: Robin Isaksson, 2016. robin.isaksson|rainfoo.com
- * NOTE: 8-bit mode is broken as of now.
+/* Author: Robin Isaksson, 2016. robin.isaksson|rainfoo.com */ 
+/* TODO: 
+ * Improve integer and double-functions to arbitrary length.
+ * Add display-shift function.
+ * Add flashy string-print functions.  
+ * Add easy to use functions for commands such as changing cursor.
+ * Implement a function to create custom characters.
  */
 #ifndef LCD_header
 #define LCD_header 
